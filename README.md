@@ -49,4 +49,4 @@ npm run build
 ## Developer collaboration note
 Keep JSON exports safe. This demo stores tasks only in the current browser.
 
-Git workflow probe: baseline.
+Git workflow probe: left edit retained.
