@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+test-results/
+playwright-report/
+.DS_Store
+.env
+.env.*
+
+.approval-probe*.txt
+validation/
+
+# Local benchmark controls; excluded from published app
+.cursor/hooks.json
+.cursor/hooks/
+.cursor/mcp.json
