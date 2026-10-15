@@ -14,3 +14,13 @@ validation/
 .cursor/hooks.json
 .cursor/hooks/
 .cursor/mcp.json
+
+*.tsbuildinfo
+viewport-test.html
+
+# Local tool settings and credentials; do not publish
+.vscode/
+.cursor/
+.agents/
+*.pem
+credentials.json
